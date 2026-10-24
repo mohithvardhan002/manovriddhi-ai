@@ -1,0 +1,17 @@
+{
+  "short_name": "Manovriddhi",
+  "name": "Manovriddhi AI — Growth of the Mind",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#103e2b",
+  "theme_color": "#103e2b",
+  "display": "standalone",
+  "orientation": "portrait"
+}
