@@ -193,3 +193,10 @@ python -m uvicorn main:app --host 127.0.0.1 --port 8000
 - **Child Privacy & Safety:** No unnecessary personal data collection or third-party ad tracking.
 - **Ethical Gamification:** Rewards genuine comprehension and revision rather than endless screen time.
 - **Empirical Transparency:** Unmeasured metrics are never faked. The evaluation benchmark runs live code against ground-truth test cases.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/14d6e450-86fa-4cd8-a121-e956f39af128" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2c7fa820-52c2-458a-a6f6-9f96817cb6a7" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ef07db88-e542-4bd5-b3ba-852ac9092db9" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/cbb633af-2207-4116-b96f-ae6569c771e2" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6ea8a3fa-8773-4998-98ed-b11ef7c5e44e" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/358a4c66-59e8-4ee3-ae27-309716657c16" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1e531aaa-7c2c-4d4f-90d0-fc343befadb2" />
